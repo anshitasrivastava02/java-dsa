@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/anshitasrivastava02/java-dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshitasrivastava02/java-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshitasrivastava02/java-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/anshitasrivastava02/java-dsa/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
